@@ -30,10 +30,11 @@ body {
 
 header {
   background-color: var(--cor4);
-  min-height: 150px;
+  max-height: 150px;
   text-align: center;
   padding-top: 55px;
   background-image: linear-gradient(to bottom, #3ddc84, #053d1e);
+  
 }
 
 header > h1 {
@@ -43,7 +44,7 @@ header > h1 {
   font-size: 3em;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.445);
 }
-header > p {
+header  p {
   color: white;
   font-family: var(--fonte-padrao);
   font-size: 1.2em;
