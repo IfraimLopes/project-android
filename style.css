@@ -86,7 +86,7 @@ main {
   width: 700px;
   max-width: 700px;
   min-width: 280px;
-  margin-top: auto;
+ 
 }
 main h2 {
   color: var(--cor4);
